@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/toxo Unity scene.unity
+- path: Assets/toxo Unity 10.23.unity
   isLoaded: 1
   isActive: 1
